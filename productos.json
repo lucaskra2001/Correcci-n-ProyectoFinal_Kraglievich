@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nombre": "Auriculares", "precio": 15000 },
+  { "id": 2, "nombre": "Teclado", "precio": 22000 },
+  { "id": 3, "nombre": "Mouse", "precio": 12000 }
+]
